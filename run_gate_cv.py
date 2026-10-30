@@ -53,10 +53,10 @@ def main():
 
     args = parser.parse_args()
 
-    if args.camera is not None:
-        from run_camera_demo import run_camera
-        run_camera(device_index=args.camera, whitelist=args.whitelist)
-        return
+    # if args.camera is not None:
+    #     from run_camera_demo import run_camera
+    #     run_camera(device_index=args.camera, whitelist=args.whitelist)
+    #     return
 
     if not args.image and not args.batch:
         parser.print_help()
