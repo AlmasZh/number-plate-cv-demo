@@ -1,0 +1,408 @@
+[
+  {
+    "id": 1,
+    "filename": "kz_plate_01.jpg",
+    "filepath": "dataset/images/kz_plate_01.jpg",
+    "title": "File:235CTOm48 k.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/235CTOm48_k.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 6261
+  },
+  {
+    "id": 2,
+    "filename": "kz_plate_02.jpg",
+    "filepath": "dataset/images/kz_plate_02.jpg",
+    "title": "File:Diplomatic license plate 1992 Kazakhstan D 001618.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Diplomatic_license_plate_1992_Kazakhstan_D_001618.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 78188
+  },
+  {
+    "id": 3,
+    "filename": "kz_plate_03.jpg",
+    "filepath": "dataset/images/kz_plate_03.jpg",
+    "title": "File:Diplomatic license plates of Kazakhstan, диппредставительства в Казахстан.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Diplomatic_license_plates_of_Kazakhstan%2C_%D0%B4%D0%B8%D0%BF%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0_%D0%B2_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 2455543
+  },
+  {
+    "id": 4,
+    "filename": "kz_plate_04.jpg",
+    "filepath": "dataset/images/kz_plate_04.jpg",
+    "title": "File:Kazakh license plate for foreigners.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Kazakh_license_plate_for_foreigners.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 72162
+  },
+  {
+    "id": 5,
+    "filename": "kz_plate_05.png",
+    "filepath": "dataset/images/kz_plate_05.png",
+    "title": "File:Kazakh license plate for non-private vehicles.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Kazakh_license_plate_for_non-private_vehicles.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 2196
+  },
+  {
+    "id": 6,
+    "filename": "kz_plate_06.png",
+    "filepath": "dataset/images/kz_plate_06.png",
+    "title": "File:Kazakh license plate for trailers.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kazakh_license_plate_for_trailers.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 2100
+  },
+  {
+    "id": 7,
+    "filename": "kz_plate_07.jpg",
+    "filepath": "dataset/images/kz_plate_07.jpg",
+    "title": "File:Kazakhstan (foreign company) license plate 2012.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kazakhstan_%28foreign_company%29_license_plate_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 292719
+  },
+  {
+    "id": 8,
+    "filename": "kz_plate_08.jpg",
+    "filepath": "dataset/images/kz_plate_08.jpg",
+    "title": "File:Kazakhstan (trailer) license plate 2012.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Kazakhstan_%28trailer%29_license_plate_2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 377882
+  },
+  {
+    "id": 9,
+    "filename": "kz_plate_09.jpg",
+    "filepath": "dataset/images/kz_plate_09.jpg",
+    "title": "File:Kazakhstan automobile license plate 2012 (rear).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kazakhstan_automobile_license_plate_2012_%28rear%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 27953
+  },
+  {
+    "id": 10,
+    "filename": "kz_plate_10.png",
+    "filepath": "dataset/images/kz_plate_10.png",
+    "title": "File:Kazakhstan company license plate (old).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kazakhstan_company_license_plate_%28old%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 22431
+  },
+  {
+    "id": 11,
+    "filename": "kz_plate_11.png",
+    "filepath": "dataset/images/kz_plate_11.png",
+    "title": "File:Kazakhstan company license plate 2012.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kazakhstan_company_license_plate_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 32806
+  },
+  {
+    "id": 12,
+    "filename": "kz_plate_12.png",
+    "filepath": "dataset/images/kz_plate_12.png",
+    "title": "File:Kazakhstan foreign company license plate 2012.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Kazakhstan_foreign_company_license_plate_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 7860
+  },
+  {
+    "id": 13,
+    "filename": "kz_plate_13.jpg",
+    "filepath": "dataset/images/kz_plate_13.jpg",
+    "title": "File:Kazakhstan foreign joint venture license plate 2026.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Kazakhstan_foreign_joint_venture_license_plate_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 500208
+  },
+  {
+    "id": 14,
+    "filename": "kz_plate_14.jpg",
+    "filepath": "dataset/images/kz_plate_14.jpg",
+    "title": "File:Kazakhstan license plate 1993 privat square.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kazakhstan_license_plate_1993_privat_square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 26710
+  },
+  {
+    "id": 15,
+    "filename": "kz_plate_15.jpg",
+    "filepath": "dataset/images/kz_plate_15.jpg",
+    "title": "File:Kazakhstan license plate 2012 public.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kazakhstan_license_plate_2012_public.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 25304
+  },
+  {
+    "id": 16,
+    "filename": "kz_plate_16.jpg",
+    "filepath": "dataset/images/kz_plate_16.jpg",
+    "title": "File:Kazakhstan motorcycle license plate 1993.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Kazakhstan_motorcycle_license_plate_1993.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 4135
+  },
+  {
+    "id": 17,
+    "filename": "kz_plate_17.png",
+    "filepath": "dataset/images/kz_plate_17.png",
+    "title": "File:Kazakhstan motorcycle license plate 2012.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Kazakhstan_motorcycle_license_plate_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 16468
+  },
+  {
+    "id": 18,
+    "filename": "kz_plate_18.png",
+    "filepath": "dataset/images/kz_plate_18.png",
+    "title": "File:Kazakhstan non-resident license plate 2012 (back).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kazakhstan_non-resident_license_plate_2012_%28back%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 5652
+  },
+  {
+    "id": 19,
+    "filename": "kz_plate_19.png",
+    "filepath": "dataset/images/kz_plate_19.png",
+    "title": "File:Kazakhstan non-resident license plate 2012.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kazakhstan_non-resident_license_plate_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 34526
+  },
+  {
+    "id": 20,
+    "filename": "kz_plate_20.jpg",
+    "filepath": "dataset/images/kz_plate_20.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на физическое лицо - Е.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_-_%D0%95.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 422369
+  },
+  {
+    "id": 21,
+    "filename": "kz_plate_21.jpg",
+    "filepath": "dataset/images/kz_plate_21.jpg",
+    "title": "File:KZDefenseLicensePlate.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/KZDefenseLicensePlate.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 46472
+  },
+  {
+    "id": 22,
+    "filename": "kz_plate_22.jpg",
+    "filepath": "dataset/images/kz_plate_22.jpg",
+    "title": "File:Kazakhstan Police license plate E-146-KP.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kazakhstan_Police_license_plate_E-146-KP.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 16366
+  },
+  {
+    "id": 23,
+    "filename": "kz_plate_23.png",
+    "filepath": "dataset/images/kz_plate_23.png",
+    "title": "File:Kazakhstan trailer license plate 2012.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Kazakhstan_trailer_license_plate_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 13662
+  },
+  {
+    "id": 24,
+    "filename": "kz_plate_24.png",
+    "filepath": "dataset/images/kz_plate_24.png",
+    "title": "File:Kazakhstan transit license plate 2012.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kazakhstan_transit_license_plate_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 12877
+  },
+  {
+    "id": 25,
+    "filename": "kz_plate_25.png",
+    "filepath": "dataset/images/kz_plate_25.png",
+    "title": "File:License plate Kazakhstan 2012 two line.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/License_plate_Kazakhstan_2012_two_line.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 6941
+  },
+  {
+    "id": 26,
+    "filename": "kz_plate_26.png",
+    "filepath": "dataset/images/kz_plate_26.png",
+    "title": "File:License plate Kazakhstan 2012.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/License_plate_Kazakhstan_2012.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 17512
+  },
+  {
+    "id": 27,
+    "filename": "kz_plate_27.jpg",
+    "filepath": "dataset/images/kz_plate_27.jpg",
+    "title": "File:License plate Kazakhstan trailer truck.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/License_plate_Kazakhstan_trailer_truck.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 1256659
+  },
+  {
+    "id": 28,
+    "filename": "kz_plate_28.jpg",
+    "filepath": "dataset/images/kz_plate_28.jpg",
+    "title": "File:License plate Kazakhstan.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/License_plate_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 298058
+  },
+  {
+    "id": 29,
+    "filename": "kz_plate_29.png",
+    "filepath": "dataset/images/kz_plate_29.png",
+    "title": "File:License plate Kazakhstan.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/License_plate_Kazakhstan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 3129
+  },
+  {
+    "id": 30,
+    "filename": "kz_plate_30.jpg",
+    "filepath": "dataset/images/kz_plate_30.jpg",
+    "title": "File:License plate of Kazakhstan.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/License_plate_of_Kazakhstan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 354333
+  },
+  {
+    "id": 31,
+    "filename": "kz_plate_31.jpg",
+    "filepath": "dataset/images/kz_plate_31.jpg",
+    "title": "File:Pelake jadide qazaq.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Pelake_jadide_qazaq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 32720
+  },
+  {
+    "id": 32,
+    "filename": "kz_plate_32.jpg",
+    "filepath": "dataset/images/kz_plate_32.jpg",
+    "title": "File:Registration plates of Kazakhstan (PC).JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Registration_plates_of_Kazakhstan_%28PC%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 17922
+  },
+  {
+    "id": 33,
+    "filename": "kz_plate_33.jpg",
+    "filepath": "dataset/images/kz_plate_33.jpg",
+    "title": "File:Казахстан Номерной знак - A-001-KAZ.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD_%D0%9D%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%B7%D0%BD%D0%B0%D0%BA_-_A-001-KAZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 9111
+  },
+  {
+    "id": 34,
+    "filename": "kz_plate_34.jpg",
+    "filepath": "dataset/images/kz_plate_34.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на физическое лицо - H.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_-_H.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 792939
+  },
+  {
+    "id": 35,
+    "filename": "kz_plate_35.jpg",
+    "filepath": "dataset/images/kz_plate_35.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на физическое лицо - M.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_-_M.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 582633
+  },
+  {
+    "id": 36,
+    "filename": "kz_plate_36.jpg",
+    "filepath": "dataset/images/kz_plate_36.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на физическое лицо - P.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_-_P.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 844407
+  },
+  {
+    "id": 37,
+    "filename": "kz_plate_37.jpg",
+    "filepath": "dataset/images/kz_plate_37.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на физическое лицо с окончанием серии на О.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_%D1%81_%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%9E.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 361267
+  },
+  {
+    "id": 38,
+    "filename": "kz_plate_38.jpg",
+    "filepath": "dataset/images/kz_plate_38.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на физическое лицо.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 1630000
+  },
+  {
+    "id": 39,
+    "filename": "kz_plate_39.jpg",
+    "filepath": "dataset/images/kz_plate_39.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на юридическое лицо - B.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_-_B.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 596484
+  },
+  {
+    "id": 40,
+    "filename": "kz_plate_40.jpg",
+    "filepath": "dataset/images/kz_plate_40.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на юридическое лицо - N.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_-_N.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 847122
+  },
+  {
+    "id": 41,
+    "filename": "kz_plate_41.jpg",
+    "filepath": "dataset/images/kz_plate_41.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на юридическое лицо - X..JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_-_X..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 480759
+  },
+  {
+    "id": 42,
+    "filename": "kz_plate_42.jpg",
+    "filepath": "dataset/images/kz_plate_42.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на юридическое лицо - Z..JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE_-_Z..JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 326462
+  },
+  {
+    "id": 43,
+    "filename": "kz_plate_43.jpg",
+    "filepath": "dataset/images/kz_plate_43.jpg",
+    "title": "File:Казахстанский автомобильный номер выданный на юридическое лицо.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%B2%D1%8B%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0_%D1%8E%D1%80%D0%B8%D0%B4%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 311487
+  },
+  {
+    "id": 44,
+    "filename": "kz_plate_44.jpg",
+    "filepath": "dataset/images/kz_plate_44.jpg",
+    "title": "File:Казахстанский номер серии AST.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_AST.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "size_bytes": 479408
+  },
+  {
+    "id": 45,
+    "filename": "kz_plate_45.jpg",
+    "filepath": "dataset/images/kz_plate_45.jpg",
+    "title": "File:VW Teramont R-Line, Almaty (P1180145).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/VW_Teramont_R-Line%2C_Almaty_%28P1180145%29.jpg/1280px-VW_Teramont_R-Line%2C_Almaty_%28P1180145%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "size_bytes": 470400,
+    "type": "street_scene"
+  },
+  {
+    "id": 46,
+    "filename": "kz_plate_46.jpg",
+    "filepath": "dataset/images/kz_plate_46.jpg",
+    "title": "File:VW Polo CK, Almaty (LRM 20240331 130451).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/VW_Polo_CK%2C_Almaty_%28LRM_20240331_130451%29.jpg/1280px-VW_Polo_CK%2C_Almaty_%28LRM_20240331_130451%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "size_bytes": 384664,
+    "type": "street_scene"
+  },
+  {
+    "id": 47,
+    "filename": "kz_plate_47.jpg",
+    "filepath": "dataset/images/kz_plate_47.jpg",
+    "title": "File:Geely Emgrand, Astana (P1190778).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Geely_Emgrand%2C_Astana_%28P1190778%29.jpg/1280px-Geely_Emgrand%2C_Astana_%28P1190778%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "size_bytes": 476812,
+    "type": "street_scene"
+  },
+  {
+    "id": 48,
+    "filename": "kz_plate_48.jpg",
+    "filepath": "dataset/images/kz_plate_48.jpg",
+    "title": "File:Tank 500, Astana (P1190744).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Tank_500%2C_Astana_%28P1190744%29.jpg/1280px-Tank_500%2C_Astana_%28P1190744%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "size_bytes": 298314,
+    "type": "street_scene"
+  },
+  {
+    "id": 49,
+    "filename": "kz_plate_49.jpg",
+    "filepath": "dataset/images/kz_plate_49.jpg",
+    "title": "File:Kia K9, Astana (P1190736).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Kia_K9%2C_Astana_%28P1190736%29.jpg/1280px-Kia_K9%2C_Astana_%28P1190736%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "size_bytes": 297122,
+    "type": "street_scene"
+  },
+  {
+    "id": 50,
+    "filename": "kz_plate_50.jpg",
+    "filepath": "dataset/images/kz_plate_50.jpg",
+    "title": "File:Алматы, Lada Vesta на Каримова.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B%2C_Lada_Vesta_%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0.jpg/1280px-%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B%2C_Lada_Vesta_%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "size_bytes": 426612,
+    "type": "street_scene"
+  }
+]
