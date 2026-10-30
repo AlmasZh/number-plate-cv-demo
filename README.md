@@ -128,4 +128,3 @@ For the hybrid smart home architecture:
   - Or receive JSON events over MQTT / Unix Domain Socket.
   - Controls GPIO pin relay (e.g. Raspberry Pi GPIO 17) to actuate the gate motor when `relay_signal == 1`.
   - Integrates with GPS Geofencing (e.g. triggers camera OCR only when homeowner GPS approaches within 50 meters of the house).
-# number-plate-cv
